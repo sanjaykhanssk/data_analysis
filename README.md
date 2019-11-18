@@ -3,4 +3,4 @@ Hii in this Repo i'll post jupyter notebooks of MY EDA Practice and Data Science
 <br>
 Independent Programmer
 
-Take a look at My Web page[sanjaykhanssk.github.io]
+Take a look at My Web page[https://sanjaykhanssk.github.io/]
